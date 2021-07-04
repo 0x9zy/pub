@@ -1,4 +1,4 @@
-[Test Lab]
+[TEST LAB]
 
 load.dll - downloader
 
